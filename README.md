@@ -50,3 +50,6 @@
 
 ■画面遷移図URL
 https://www.figma.com/file/19CYZOZ7wTlkwTtkA8T3Kv/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=oHwOGZIWuHnyXAUY-1
+
+■ER図URL
+https://drive.google.com/file/d/1J_1tEiiqVjL_j4hrVtB0ecljkbL9HBMI/view?usp=sharing
